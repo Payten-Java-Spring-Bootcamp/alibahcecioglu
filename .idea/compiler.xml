@@ -9,13 +9,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="homework3" />
         <module name="movie" />
+        <module name="homework3 (1)" />
         <module name="demo" />
-        <module name="homework4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="11" />
       <module name="homework3" target="11" />
+      <module name="homework3 (1)" target="11" />
       <module name="homework4" target="11" />
       <module name="movie" target="1.8" />
     </bytecodeTargetLevel>
@@ -24,6 +25,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo" options="-parameters" />
       <module name="homework3" options="-parameters" />
+      <module name="homework3 (1)" options="-parameters" />
       <module name="homework4" options="-parameters" />
       <module name="movie" options="-parameters" />
     </option>
