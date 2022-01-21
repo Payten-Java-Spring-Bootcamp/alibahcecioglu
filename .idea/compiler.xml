@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="homework3" />
         <module name="movie" />
-        <module name="homework3 (1)" />
         <module name="demo" />
       </profile>
     </annotationProcessing>
