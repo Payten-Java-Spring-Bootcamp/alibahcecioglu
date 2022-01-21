@@ -10,6 +10,7 @@
         <module name="homework3" />
         <module name="movie" />
         <module name="demo" />
+        <module name="homework4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
